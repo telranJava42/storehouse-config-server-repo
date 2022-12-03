@@ -1,2 +1,1 @@
 spring.cloud.stream.bindings.updateRecordConsumer-in-0.destination=ags41ub0-order-update-data
-
